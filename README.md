@@ -1,4 +1,4 @@
-##LAN Analyzer
+## LAN Analyzer
 
 I made this simple cpp program for myself to keep track of devices connected to my LAN, when i startup my system.
 It shows you list of addresses in your LAN, and saves them to .txt file.
