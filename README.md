@@ -8,5 +8,5 @@ Program will notify you if new address is found. Which is a great way to keep tr
 You can also give "quick" as a command-line argument, to get a quick scan and overview.
 
 Unauthorized scanning of networks that you do not own or have explicit permission to scan is generally considered unethical and may be illegal.
-So DON'T use this in networks you don't own.
+So DON'T use this program in networks you don't own.
 
