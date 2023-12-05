@@ -35,8 +35,8 @@ int main(int argc, char *argv[])
     {
         cout << "--------------------------------------------------------" << endl;
         cout << "Currently " << session->return_number_of_devices() << " devices connected" << endl;
-        cout << "C to print current devices in this LAN" << endl;
-        cout << "H to print past devices in this LAN" << endl;
+        cout << "C to display current devices in this LAN" << endl;
+        cout << "H to display past devices in this LAN" << endl;
         cout << "Q to quit" << endl;
         cout << "--------------------------------------------------------" << endl;
 
