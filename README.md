@@ -1,4 +1,4 @@
-## LAN-Analyzer
+# LAN monitoring program
 
 C++ program to keep track of devices connected to your local area network.
 Program creates a pipe between shell process and the program. Then it performs nmap ping scan from address range 192.168.1.0/24.
