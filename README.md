@@ -6,8 +6,11 @@ After the scan it will parse the addresses, and print them out. It also maintain
 The program will notify you if a new address is found, providing a great way to keep track of potential intruders in your LAN.
 
 You can also give "quick" as a command-line argument, to get a quick overview of the devices.
+
 <br>
-![image](https://github.com/PirinenAO/LAN-analyzer/assets/119351375/9613d4f4-7eee-4d8d-9a66-62ecc1d66819)
+
+![image](https://github.com/PirinenAO/LAN-analyzer/assets/119351375/d57706d8-d3fd-47c4-9a20-c914d90f2e4f)
+
 <br>
 
 **Unauthorized scanning of networks that you do not own or have explicit permission to scan is generally considered unethical and may be illegal.
