@@ -11,7 +11,7 @@ The program will notify you if a new address is found, providing a great way to 
 ![image](https://github.com/PirinenAO/LAN-analyzer/assets/119351375/c648b9cd-f53a-4df6-a80f-5fd4636a796e)
 <br>
 
-You can also give "quick" as a command-line argument, to get a quick overview of the devices.
+**You can also give "quick" as a command-line argument, to get a quick overview of the devices:**
 
 <br>
 
